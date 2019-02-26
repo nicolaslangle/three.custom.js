@@ -1,0 +1,19 @@
+{
+  "name": "three.custom",
+  "version": "1.0.0",
+  "description": "Three.js 101.1 without createElementNS",
+  "main": "three.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaslangle/three.custom.js.git"
+  },
+  "author": "nicolaslangle@voodoo.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolaslangle/three.custom.js/issues"
+  },
+  "homepage": "https://github.com/nicolaslangle/three.custom.js#readme"
+}
